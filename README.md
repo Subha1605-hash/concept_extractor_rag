@@ -12,6 +12,11 @@ Extract underlying **concepts** from exam questions using:
 - Rule-based keyword matching
 - Simulated LLM-based prompting
 
+## My details 
+Name : Subhashini K 
+Roll no : 22B0013
+Github link to my repo : https://github.com/Subha1605-hash/concept_extractor_rag
+
 ---
 
 ## How to Run
@@ -27,6 +32,3 @@ pip install -r requirements.txt
 # Run on Ancient History
 python main.py --subject=ancient_history
 
-# My details 
-Name : Subhashini K 
-Roll no : 22B0013
